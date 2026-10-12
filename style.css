@@ -14,3 +14,4 @@ nav{display:flex;gap:20px;justify-content:center;margin-top:40px;font-size:.95re
 h2{font-size:1.3rem;margin:28px 0 8px}
 .small{color:var(--muted);font-size:.9rem}
 .center{text-align:center}
+.badge{margin:32px 0}.badge a{display:inline-block;padding:12px;line-height:0}.badge img{height:48px;width:auto}
